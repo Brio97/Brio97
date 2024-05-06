@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brio97
+- 👋 Hi, I’m Brian Mutai
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on web development
