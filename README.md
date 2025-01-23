@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Mutai
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently a Junior full stack developer
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me creflobrian@gmail.com
 
